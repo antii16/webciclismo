@@ -1,0 +1,10 @@
+$color: red ;
+body {
+
+    background-color: aquamarine;
+
+    & .titulo{
+        color: $color;
+    }
+
+}
